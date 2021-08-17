@@ -1,0 +1,17 @@
+{
+  "name": "vaco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inferredREleaseDates.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.6",
+    "moment": "^2.29.1",
+    "moment-weekdaysin": "^1.0.1"
+  }
+}
